@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Chores": [
+    { "ChoreName": "Brush Teeth",
+     "ChoreDuration": "2 hours" ,
+    "ChoreImage": "Post 3" }
+   { "ChoreName": "Do Homework",
+     "ChoreDuration": "3 hours" ,
+    "ChoreImage": "Post 3" }
+  { "ChoreName": "Clean Bathroom",
+     "ChoreDuration": "1 hour" ,
+    "ChoreImage": "Post 3" }
+  { "ChoreName": "Put Toys Away",
+     "ChoreDuration": "3.5 hours" ,
+    "ChoreImage": "Post 3" }
+ { "ChoreName": "Make Bed",
+     "ChoreDuration": "1.5 hours" ,
+    "ChoreImage": "Post 3" }
+    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+
 }
