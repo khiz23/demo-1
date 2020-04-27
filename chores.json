@@ -1,0 +1,22 @@
+{
+  "Chores": [
+    { "ChoreName": "Brush Teeth",
+     "ChoreDuration": "2 hours" ,
+    "ChoreImage": "https://raw.githubusercontent.com/khiz23/demo-1/master/brush.jpg" }
+   { "ChoreName": "Do Homework",
+     "ChoreDuration": "3 hours" ,
+    "ChoreImage": "https://raw.githubusercontent.com/khiz23/demo-1/master/hw.png" }
+  { "ChoreName": "Clean Bathroom",
+     "ChoreDuration": "1 hour" ,
+    "ChoreImage": "https://raw.githubusercontent.com/khiz23/demo-1/master/bathroom.jpg" }
+  { "ChoreName": "Put Toys Away",
+     "ChoreDuration": "3.5 hours" ,
+    "ChoreImage": "https://raw.githubusercontent.com/khiz23/demo-1/master/toys.jpg" }
+ { "ChoreName": "Make Bed",
+     "ChoreDuration": "1.5 hours" ,
+    "ChoreImage": "https://raw.githubusercontent.com/khiz23/demo-1/master/bed.jpeg" }
+    
+  ],
+
+
+}
