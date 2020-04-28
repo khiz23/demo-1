@@ -4,26 +4,31 @@
       "ChoreName": "Brush Teeth",
       "ChoreDuration": "2 hours",
       "ChoreImageName": "https://raw.githubusercontent.com/khiz23/demo-1/master/brush.jpg"
+      "ChoreSite": "oralb.com"
     },
     {
       "ChoreName": "Do Homework",
       "ChoreDuration": "3 hours",
       "ChoreImageName": "https://raw.githubusercontent.com/khiz23/demo-1/master/hw.png"
+      "ChoreSite": "justdomyhomework.com/blog/homework-help-websites"
     },
     {
       "ChoreName": "Clean Bathroom",
       "ChoreDuration": "1 hour",
       "ChoreImageName": "https://raw.githubusercontent.com/khiz23/demo-1/master/bathroom.jpg"
+      "ChoreSite" : "lifeasmom.com/kids-can-clean-the-bathrooms-with-free-printable-checklists/"
     },
     {
       "ChoreName": "Put Toys Away",
       "ChoreDuration": "3.5 hours",
       "ChoreImageName": "https://raw.githubusercontent.com/khiz23/demo-1/master/toys.jpg"
+      "ChoreSite" : "www.target.com/s/kids+pretend+cleaning+toys?Nao=0"
     },
     {
       "ChoreName": "Make Bed",
       "ChoreDuration": "1.5 hours",
       "ChoreImageName": "https://raw.githubusercontent.com/khiz23/demo-1/master/bed.jpeg"
+      "ChoreSite" : "www.thepinningmama.com/the-secret-to-kids-perfectly-making-the-bed-every-day/"
     }
   ]
 }
